@@ -14,4 +14,3 @@ It incorporates live data streaming and updates in real-time. Users can log in a
 HTML, CSS, JavaScript
 Chart.js (for data visualization)
 Bootstrap / Tailwind CSS (for styling)
-Axios (for API requests)
